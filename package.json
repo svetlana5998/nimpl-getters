@@ -1,0 +1,10 @@
+{
+  "name": "nimpl-getters",
+  "version": "0.1.0",
+  "description": "Implementation of server getters in React Server Components without switching to SSR",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
